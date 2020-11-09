@@ -64,7 +64,7 @@ export default new Vuex.Store({
   getters: {
     longAddress: state => {
       return new Array(
-        state.form.addrOne + ", " + state.form.addrTwo,
+        state.fdsdfasdform.addrOne + ", " + state.form.addrTwo,
         state.form.city + ", " + state.form.state + ", " + state.form.zip
       );
     },
