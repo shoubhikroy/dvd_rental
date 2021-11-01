@@ -1,8 +1,7 @@
 # dvd_rental
 
 Please run http://104.248.13.9/ to see a live demo.
-
-Please find my implementation of the Front-end Take Home Exam.  
+  
 
 Framework used: VueJS - written using VueJs framework to enable use of state management and routers while remaining light weight.
 
